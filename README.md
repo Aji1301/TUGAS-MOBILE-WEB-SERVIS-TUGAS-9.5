@@ -1,2 +1,1 @@
-Jangan lupa ketika ingin menjalankan backendnya jalankan perintah "php artisan migrate"
-dan jangan lupa mengganti IP di flutter, sesuaikan dengan laptop anda 
+TATA CARA PENGGUNAAN BACKEND ADA DI FILE SETUP_AFTER_UNZIP
